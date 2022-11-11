@@ -1,2 +1,2 @@
-<script src="assets/login.js"></script>
+<script src="assets/js/login.js"></script>
 </body>
