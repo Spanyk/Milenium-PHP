@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 @import url('https://fonts.googleapis.com/css?family=Montserrat:400,800');
 
 * {
@@ -253,10 +252,4 @@ footer i {
 footer a {
     color: #3c97bf;
     text-decoration: none;
-=======
-@import url('login.css');
-
-body { 
-    background: #121212;
->>>>>>> 7f2adf1a670b5edd1832528b6dcb58d5d49a6649
 }
