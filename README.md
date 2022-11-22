@@ -1,4 +1,5 @@
-![milenium-filmes-banner](https://user-images.githubusercontent.com/90398620/201402914-223bf2b7-6ecb-4584-9da2-c68018d99462.png)
+![milenium-filmes-banner](https://user-images.githubusercontent.com/90398620/203371140-301ca64e-210c-48d9-9df0-a0fa971cbce6.png)
+
 
 ## Sistema de locadora de filmes feito em PHP
 
